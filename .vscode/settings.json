@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "functional": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "limits": "cpp",
+        "streambuf": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
